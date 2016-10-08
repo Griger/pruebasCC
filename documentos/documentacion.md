@@ -3,4 +3,4 @@ layout: index
 
 ---
 
-#Documentación Ruby or not Ruby
+Documentación Ruby or not Ruby
