@@ -1,7 +1,9 @@
 ---
 layout: index
 ---
-#Hola mundo
+
+# Hola mundo
+
 En esta página puedes encontrar muchas cosas:
 
 - [Documentación.](documentos/documentacion)
