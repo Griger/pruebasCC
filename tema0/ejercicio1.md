@@ -12,7 +12,7 @@ sudo pip3 install virtualenv==14.0.6
 
 No obstante esto haría que la versión actual de virtualenv que tuviésemos instalada (si la teníamos) se desinstale, para poder emplear varias versiones distintas de virtualenv lo que haremos será emplearlo de forma local tal y como se explica en la web. Para ello nos descargaremos el tar.gz de la versión que deseemos, por ejemplo, podemos descargar dicho fichero comprimido para la última versión de [aquí](https://pypi.python.org/pypi/virtualenv/15.0.3) y en una consola haríamos los siguiente, desde el directorio donde se encuentre el archivo descargado:
 
-```shell
+```bash
 tar xvfz virtualenv-15.0.3.tar.gz
 cd virtualenv-15.0.3/
 python3 virtualenv.py myVE
