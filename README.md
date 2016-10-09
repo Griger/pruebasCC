@@ -2,4 +2,4 @@
 
 ## Tema 1: Desarrollo basado en pruebas
 
-- [Ejercicio 1.](tema0/ejercicio1)
+- [Ejercicio 1.](tema0/ejercicio1.md)
