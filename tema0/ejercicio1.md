@@ -4,7 +4,7 @@ He optado por instalar el entorno virtual de desarrollo virualenv para Python, s
 sudo pip3 install virtualenv
 ```
 
-Si quisieramos instalar otra versión, com por ejemplo la 14.0.6 no tendríamos más que modificar el comando anterior del siguiente modo:
+Si quisiéramos instalar otra versión, com por ejemplo la 14.0.6 no tendríamos más que modificar el comando anterior del siguiente modo:
 
 ```shell
 sudo pip3 install virtualenv==14.0.6
