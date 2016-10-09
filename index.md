@@ -2,6 +2,4 @@
 layout: index
 ---
 
-# pruebasCC
-
-Hola mundo
+[Objetivos](documentos/objetivos)
