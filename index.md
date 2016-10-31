@@ -2,4 +2,4 @@
 layout: index
 ---
 
-[Objetivos](documentos/objetivos)
+[Objetivos :D](documentos/objetivos)
